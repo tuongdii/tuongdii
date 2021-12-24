@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuongdii
-- 🌱 I’m currently learning Java, Javascipt, Database,...
+- 🌱 I am undergraduate student at FPT University major in Software Engineer
 - 📫 How to reach me https://www.facebook.com/tuongduy20/
 
 <!---
